@@ -6,9 +6,10 @@ I'm Mark Herzog
 
 ![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning:
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - 📫 How to reach me: markherzog060@gmail.com
