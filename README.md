@@ -16,6 +16,6 @@ I'm Mark Herzog
 
 - ⚡ Fun fact: I started to learn to code at age 12
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=MarkHerzog)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=MarkHerzog)]
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkHerzog&theme=blue-green)
