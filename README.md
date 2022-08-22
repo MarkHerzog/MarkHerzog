@@ -14,7 +14,7 @@ I'm Mark Herzog
 
 - 📫 How to reach me: markherzog060@gmail.com
 
-- ⚡ Fun fact: I started to learn to code at age 12
+- ⚡ Fun fact: I think I'm good at coding but I'm not.
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=MarkHerzog)
 
